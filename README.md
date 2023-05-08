@@ -10,7 +10,7 @@
 
 
 <br />
-<img align="right" height="360px" width="320px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="360px" width="360px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 ### Software Skills...
 
