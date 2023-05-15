@@ -8,11 +8,11 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer 💻 | 👨‍⚖️ Life Long Learner 👨‍⚖️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-
 <br />
-<img align="right" height="360px" width="360px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
-### Software Skills...
+<h2 align="center">🌟 Technical Skills</h2>
+
+<img align="right" height="320px" width="360px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
  - 🥀 Javascript, Typescript, React, Vue, Angular
  
@@ -28,6 +28,8 @@
   
  - 🛫 Elasticsearch, Apache Solr, Apache Lucene
 
+<br />
+<br />
 <br />
 
 <h2 align="center">🤝 Support</h2>
