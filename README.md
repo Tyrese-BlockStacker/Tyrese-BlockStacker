@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer 💻 | 👨‍⚖️ Life Long Learner 👨‍⚖️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack  Developer 💻 | 👨‍⚖️ Life Long Learner 👨‍⚖️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <br />
@@ -14,19 +14,21 @@
 
 <img align="right" height="320px" width="360px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
- - 🥀 Javascript, Typescript, React, Vue, Angular
+ - 🥀 Ethereum, Hyperledger, Corda, Hardhat, Truffle
  
- - 🔭 HTML & CSS & Javascript, jQuery
+ - 🔭 Solidity, Go, Rust, Consensus Algorithms, Cryptography
  
- - 🛸 Material UI, Ant Design
+ - 🛸 Smart Contract Development, dApp Development
  
- - 🚀 Node.js & Express, Python & Flask & Django
+ - 🚀 HTML5, CSS3, JavaScript, TypeScript, Node.js
   
- - 🛬 Ruby and Rails, PHP & Laravel, Java & Spring, C# & .NET
+ - 🛬 React, Next.js, Angular, Vue.js, Express, RESTful API
  
- - 🏰 MongoDB, Redis, MySQL, PostgreSQL, Oracle
+ - 🏰 Docker, Kubernetes, AWS, Google Cloud, CI/CD, Git
   
- - 🛫 Elasticsearch, Apache Solr, Apache Lucene
+ - 🛫 Java, Python, C++, MySQL, MongoDB, PostgreSQL
+
+ - 🏯 Agile Methodologies, Scrum, Testing Frameworks (Mocha, Jest)
 
 <br />
 <br />
