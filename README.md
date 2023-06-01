@@ -14,21 +14,17 @@
 
 <img align="right" height="320px" width="360px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
- - 🥀 Ethereum, Hyperledger, Corda, Hardhat, Truffle
+ - 🥀 Solidity, Serpent, Vyper, Python, Go, JavaScript, Rust, Java, C++
  
- - 🔭 Solidity, Go, Rust, Consensus Algorithms, Cryptography
+ - 🏰 Ethereum, Hyperledger Fabric, Corda, Solana
  
- - 🛸 Smart Contract Development, dApp Development
+ - 🛸 MERN Stack, MEAN Stack, MEVN Stack, Next.js, React Native, Django, Flask, PHP, RESTful API Design
  
- - 🚀 HTML5, CSS3, JavaScript, TypeScript, Node.js
+ - 🚀 Git, Jira, Jenkins, AWS, Google Cloud Platform, Docker, Kubernetes, CI/CD Pipeline
   
- - 🛬 React, Next.js, Angular, Vue.js, Express, RESTful API
- 
- - 🏰 Docker, Kubernetes, AWS, Google Cloud, CI/CD, Git
+ - 🔭 Hardhat, Truffle, Mocha, Jest, Chai, Selenium
   
- - 🛫 Java, Python, C++, MySQL, MongoDB, PostgreSQL
-
- - 🏯 Agile Methodologies, Scrum, Testing Frameworks (Mocha, Jest)
+ - 🏯 Proof-of-work, Proof-of-stake, Proof-of-authority
 
 <br />
 <br />
