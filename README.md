@@ -14,17 +14,17 @@
 
 <img align="right" height="320px" width="360px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
- - 🥀 GoLang, Solidity, Vyper, Serpent, JavaScript, TypeScript, Python, Java, Rust, C++
+ - 🥀 Solidity, Vyper, GoLang, JavaScript, TypeScript, Python, Rust
  
- - 🛫 Ethereum, Cosmos SDK, Agoric, Go-Ethereum, Hyperledger Fabric, Solana SDKs
+ - 🛫 Cosmos SDK, Kava SDK, Truffle Suite, Go-Ethereum, ContractKit, Solana SDKs, CosmWasm SDK
  
- - 🏰 Ethereum, Cosmos SDK, Hyperledger Fabric, Corda, Solana
+ - 🏰 Cosmos Hub, Kava, Ethereum, Binance Smart Chain (BSC), Celo, Solana
+   
+ - 🔭 Ginkgo, Gomega, Hardhat, Jest, Mocha, Cypress
  
  - 🛸 MERN Stack, MEAN Stack, MEVN Stack, Next.js, React Native, Django, Flask, RESTful API Design
  
  - 🚀 Git, Jira, Jenkins, AWS, Google Cloud Platform, Docker, Kubernetes, CI/CD Pipeline
-  
- - 🔭 Hardhat, Truffle, GoConvey, Testify, Mocha, Jest, Chai, Selenium
   
  - 🏯 Proof-of-work, Proof-of-stake, Proof-of-authority
 
