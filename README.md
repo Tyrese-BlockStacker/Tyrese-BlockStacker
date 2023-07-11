@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="#">Tyrese Song</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<!--    <h1>Hi there, I'm <a href="#">Tyrese Song</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> -->
 </div>
 
 
@@ -38,6 +38,6 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made by ❤️ Tyrese Song</p>
+<p align="center">Made by ❤️ Tyrese</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
