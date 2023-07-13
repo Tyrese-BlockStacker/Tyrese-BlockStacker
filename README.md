@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working from home.
 
-- 🌱 I am currently learning DevOps technology.
+- 🌱 I am currently learning DevOps Technology.
 
 - ❓ Ask for anything related to the Cosmos SDK and related technologies.
 
